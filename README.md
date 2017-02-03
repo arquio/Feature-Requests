@@ -1,4 +1,4 @@
-# 🗺 Official Roadmap for GraphCMS
+# 🗺 GraphCMS Roadmap
 
 This repository will keep you updated on the current and future development focus of GraphCMS. Please check the [GraphCMS Roadmap Board](https://github.com/GraphCMS/roadmap/projects/1) for an overview.
 
