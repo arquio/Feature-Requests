@@ -1,10 +1,8 @@
-# 🗺 GraphCMS Roadmap
+# 🗺 GraphCMS Feature Requests
 
-This repository will keep you updated on the current and future development focus of GraphCMS. Please check the [GraphCMS Roadmap Board](https://github.com/GraphCMS/roadmap/projects/1) for an overview.
+If you are missing a feature or if you have an idea for additional functionality, please help us to improve by submitting an issue to this GitHub repository.
 
-## Missing a feature?
-
-If you are missing a feature or if you have an idea for additional functionality, please help us to improve by submitting an issue to this GitHub repository. 🙌
+Please check the [GraphCMS Feature-Requests Board](https://github.com/GraphCMS/Feature-Requests/projects/1) for an overview.
 
 ## Found an issue?
 
