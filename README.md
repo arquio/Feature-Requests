@@ -1,4 +1,4 @@
-# 🗺 GraphCMS Feature Requests
+# 🗺 GraphCMS Feature Requests [![Slack Status](https://slack.graphcms.com/badge.svg)](https://slack.graphcms.com)
 
 If you are missing a feature or if you have an idea for additional functionality, please help us to improve by submitting an issue to this GitHub repository.
 
